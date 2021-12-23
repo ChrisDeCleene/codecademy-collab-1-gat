@@ -1,18 +1,14 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
 <h1>
-  Built with Gatsby minimal starter
+  Group 2 Collab - eCommerce page - Gatsby
 </h1>
 
 <p>
-This is a test run of a minimal Gatsby site, starting with the Gatsby minimal starter. To get started with this repo, clone it and run:
+This is a test run of a minimal Gatsby site, built with the Gatsby minimal starter. To get started with this repo, clone it and run:
 </p>
 
     # install node modules
     npm install
+
     # start up dev server
     npm run develop
 
