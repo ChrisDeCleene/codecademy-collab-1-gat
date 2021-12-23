@@ -7,14 +7,14 @@
   Built with Gatsby minimal starter
 </h1>
 
-    This is a test run of a minimal Gatsby site, starting with the Gatsby minimal starter. To get started with this repo, clone it and run
+<p>
+This is a test run of a minimal Gatsby site, starting with the Gatsby minimal starter. To get started with this repo, clone it and run:
+</p>
 
-    ```shell
     # install node modules
     npm install
     # start up dev server
     npm run develop
-    ```
 
 ## Original README.md below
 
